@@ -5,6 +5,6 @@ This project is a reproduction of the publication "Presynaptic inhibition rapidl
 
 Rate model simulation described in the paper are replicated in this repo. 
 
-The link to source code by author (including rate model and spiking model) of the publication can be found here: https://github.com/sprekelerlab/code_stabilisation_Naumann20
+The link to source code by author of the publication (including rate model and spiking model) can be found here: https://github.com/sprekelerlab/code_stabilisation_Naumann20
 
 
